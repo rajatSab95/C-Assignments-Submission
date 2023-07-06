@@ -1,0 +1,52 @@
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.staticwebassets.runtime.json
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.exe
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.deps.json
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.runtimeconfig.json
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.dll
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.pdb
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.csproj.AssemblyReference.cache
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.AssemblyInfoInputs.cache
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.AssemblyInfo.cs
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.csproj.CoreCompileInputs.cache
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.RazorAssemblyInfo.cache
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.RazorAssemblyInfo.cs
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\scopedcss\bundle\EmployeeApi.styles.css
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeApi.bundle.scp.css
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.dll
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\refint\EmployeeApi.dll
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.pdb
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.genruntimeconfig.cache
+C:\Users\Rajat.Sabale\Desktop\New folder\MVC\EmployeeApi\obj\Debug\net6.0\ref\EmployeeApi.dll
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\bin\Debug\net6.0\appsettings.json
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.staticwebassets.runtime.json
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.exe
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.deps.json
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.runtimeconfig.json
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.dll
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\bin\Debug\net6.0\EmployeeApi.pdb
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.csproj.AssemblyReference.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.AssemblyInfoInputs.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.AssemblyInfo.cs
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.csproj.CoreCompileInputs.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.RazorAssemblyInfo.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.RazorAssemblyInfo.cs
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\scopedcss\bundle\EmployeeApi.styles.css
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\scopedcss\projectbundle\EmployeeApi.bundle.scp.css
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.dll
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\refint\EmployeeApi.dll
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.pdb
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\EmployeeApi.genruntimeconfig.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4API\MVC\EmployeeApi\obj\Debug\net6.0\ref\EmployeeApi.dll

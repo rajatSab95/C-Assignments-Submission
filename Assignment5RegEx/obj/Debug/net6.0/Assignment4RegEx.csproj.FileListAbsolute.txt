@@ -1,0 +1,15 @@
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\obj\Debug\net6.0\Assignment4RegEx.csproj.AssemblyReference.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\obj\Debug\net6.0\Assignment4RegEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\obj\Debug\net6.0\Assignment4RegEx.AssemblyInfoInputs.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\obj\Debug\net6.0\Assignment4RegEx.AssemblyInfo.cs
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\obj\Debug\net6.0\Assignment4RegEx.csproj.CoreCompileInputs.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\bin\Debug\net6.0\Assignment4RegEx.exe
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\bin\Debug\net6.0\Assignment4RegEx.deps.json
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\bin\Debug\net6.0\Assignment4RegEx.runtimeconfig.json
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\bin\Debug\net6.0\Assignment4RegEx.dll
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\bin\Debug\net6.0\Assignment4RegEx.pdb
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\obj\Debug\net6.0\Assignment4RegEx.dll
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\obj\Debug\net6.0\refint\Assignment4RegEx.dll
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\obj\Debug\net6.0\Assignment4RegEx.pdb
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\obj\Debug\net6.0\Assignment4RegEx.genruntimeconfig.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment4RegEx\obj\Debug\net6.0\ref\Assignment4RegEx.dll

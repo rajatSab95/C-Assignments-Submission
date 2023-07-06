@@ -1,0 +1,5 @@
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment9ExceptionHandling\Exception\obj\Debug\net6.0\Exception.csproj.AssemblyReference.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment9ExceptionHandling\Exception\obj\Debug\net6.0\Exception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment9ExceptionHandling\Exception\obj\Debug\net6.0\Exception.AssemblyInfoInputs.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment9ExceptionHandling\Exception\obj\Debug\net6.0\Exception.AssemblyInfo.cs
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment9ExceptionHandling\Exception\obj\Debug\net6.0\Exception.csproj.CoreCompileInputs.cache

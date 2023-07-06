@@ -1,0 +1,15 @@
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\obj\Debug\net6.0\Assignment3linq.csproj.AssemblyReference.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\obj\Debug\net6.0\Assignment3linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\obj\Debug\net6.0\Assignment3linq.AssemblyInfoInputs.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\obj\Debug\net6.0\Assignment3linq.AssemblyInfo.cs
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\obj\Debug\net6.0\Assignment3linq.csproj.CoreCompileInputs.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\bin\Debug\net6.0\Assignment3linq.exe
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\bin\Debug\net6.0\Assignment3linq.deps.json
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\bin\Debug\net6.0\Assignment3linq.runtimeconfig.json
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\bin\Debug\net6.0\Assignment3linq.dll
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\bin\Debug\net6.0\Assignment3linq.pdb
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\obj\Debug\net6.0\Assignment3linq.dll
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\obj\Debug\net6.0\refint\Assignment3linq.dll
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\obj\Debug\net6.0\Assignment3linq.pdb
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\obj\Debug\net6.0\Assignment3linq.genruntimeconfig.cache
+C:\Users\Rajat.Sabale\Documents\Assignments\Assignment3linq\obj\Debug\net6.0\ref\Assignment3linq.dll
